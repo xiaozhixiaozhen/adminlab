@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:yWSFXu6HRyqjSuBcPdShwQ
+url: https://github.com/candidojr13/adminlab
+urlType: REPO
+username: git
